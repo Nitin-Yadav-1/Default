@@ -1,6 +1,8 @@
 body {
     margin : 0;
     padding : 0;
+    background-color: rgb(231, 181, 235);
+
 }
 
 header {
@@ -45,4 +47,9 @@ h1 {
 .card {
     margin : 20px;
     padding : 1px;
+}
+
+a, a:hover {
+    color: white;
+    text-decoration : none;
 }

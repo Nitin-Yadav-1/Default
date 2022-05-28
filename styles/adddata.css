@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(231, 181, 235);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+  }
+h1 {
+    color: purple;
+    font-style: italic;
+}
+
+form {
+  width : 45%;
+}
+
+button {
+    width : 100%;
+    /* margin-left: 50%; */
+}
+
+a , a:hover {
+  color : white;
+  text-decoration : white;
+  width : 100%;
+}
